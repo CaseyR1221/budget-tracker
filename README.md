@@ -18,7 +18,7 @@
   ###### [Back to Table of Contents](#Table-of-Contents)
   
   ![Screen Shot 2021-09-07 at 7 35 51 PM](https://user-images.githubusercontent.com/44381344/132423453-19339e5f-536b-4ac2-92cc-51b297cf808d.png)
-  ![Live Site](https://mysterious-retreat-49068.herokuapp.com/)
+  [Live Site](https://mysterious-retreat-49068.herokuapp.com/)
   
   To use this node app and create your own local development server, clone the repo down, use the terminal to cd into the root directory. 
   
