@@ -8,7 +8,7 @@
   
   # Repository Description
   ###### [Back to Table of Contents](#Table-of-Contents)
-  This is a full stack progressive web appp (PWA) that allows you to add, subtract, and save your budget/expenses both online and offline. It also organizes the data using a graph which provides detailed information about your spending habits over time.
+  This is a full stack progressive web app (PWA) that allows you to add, subtract, and save your budget/expenses both online and offline. It also organizes the data using a graph which provides detailed information about your spending habits over time.
 
   ## Installation
   ###### [Back to Table of Contents](#Table-of-Contents)
@@ -16,8 +16,13 @@
 
   ## Usage
   ###### [Back to Table of Contents](#Table-of-Contents)
-  To use this node app and create your own local development server, clone the repo down, use the terminal to cd into the root directory. Then run: npm start
-
+  To use this node app and create your own local development server, clone the repo down, use the terminal to cd into the root directory. 
+  
+  Then run: 
+  
+  ```
+  npm start
+  ```
    
  ## License
  MIT
